@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Baibhav Paudel
+- 👀 I’m interested in web-development.
+- 🌱 I’m currently learning JavaScript and Python
