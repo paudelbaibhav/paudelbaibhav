@@ -18,4 +18,4 @@ hardware people actually have, and I measure whether they really work.
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/baibhav-paudel-b01912386) · [Portfolio](https://meet-my-code.vercel.app/) · paudelbaibhav0@gmail.com
+[LinkedIn](https://www.linkedin.com/in/paudelbaibhav/) · [Portfolio](https://meet-my-code.vercel.app/) · paudelbaibhav0@gmail.com
